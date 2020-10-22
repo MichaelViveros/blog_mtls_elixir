@@ -1,0 +1,48 @@
+# Certificate:
+#     Data:
+#         Version: 3 (0x2)
+#         Serial Number: 1 (0x1)
+#     Signature Algorithm: sha256WithRSAEncryption
+#         Issuer: CN=Dummy Root CA
+#         Validity
+#             Not Before: Oct 22 19:26:59 2020 GMT
+#             Not After : Apr 22 19:26:55 2022 GMT
+#         Subject: CN=Dummy Root CA
+#         Subject Public Key Info:
+#             ...
+#         X509v3 extensions:
+#             X509v3 Key Usage: critical
+#                 Certificate Sign, CRL Sign
+#             X509v3 Basic Constraints: critical
+#                 CA:TRUE, pathlen:1
+#             X509v3 Subject Key Identifier: 
+#                 14:CD:A9:9D:EF:07:23:7F:A1:B7:6F:7A:64:C3:E8:96:4F:B3:6F:D7
+-----BEGIN CERTIFICATE-----
+MIIE8DCCAtigAwIBAgIBATANBgkqhkiG9w0BAQsFADAYMRYwFAYDVQQDEw1EdW1t
+eSBSb290IENBMB4XDTIwMTAyMjE5MjY1OVoXDTIyMDQyMjE5MjY1NVowGDEWMBQG
+A1UEAxMNRHVtbXkgUm9vdCBDQTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoC
+ggIBAKnv0OVqAR9M/ul2zbfqUNMfmu4wKWr8vzNMcIgzWa4uRrn8vb2EsyV8/jur
+7a4j+b+Oq7p7JCPfoXo9QBw/RmjfLMAHbhGyYU0XmRTD26W1F0ly0JXDrBgc2duy
+f0iqu/Wc4jNakFzrIQ5WaTyWReaEtIdubGWV2KAjHiBHWitmsplv+CJsTJMR9RRm
+/YklLSJ2lU1HdBqoa8n1kFN6LEF+x84fH1z/icigWzZ8EGDt3CtOwzf2sM8WEoAB
+5Fy1JybHMoyVmWjgGZMk5EZRv1NKyrrv0Gd4V0Wa3GmhAeU44OpwuOnZGwDTCeUy
+zT6Ls3zRZpgtVGOE5UDW8JEuyhNzpXhCqya4yYxLu4SbsyBq9qhcwuidC8pslea9
+n4zEfl0cQSXRKrzoNS5GOYorVmK379AXUp++n1b8jQU/iddYxJ1UuuqQ8EIwO7zL
+GFmIZyNv4b1hQ7fMZDDH1WZaDNPl2fXz0YD+Izj9u3++ec8n7j0eFX6eigoNhxbM
+O0FkmNcZnv5MyTyBd9TdH2fRsFQDioS4Fcv5zTUZFD6Q90c0zMJ2pkXLxd4QZc/j
+Mf90xRsFntmGVMyN2i28TQo2UUw+RsxeoSBkBnsB6BuClH/K1P6z27cr8HHPBjPG
+vOF5Ah1dQQdbZCjZzmcl9N97pvq6cspVVsV8asROKEYXmsrfAgMBAAGjRTBDMA4G
+A1UdDwEB/wQEAwIBBjASBgNVHRMBAf8ECDAGAQH/AgEBMB0GA1UdDgQWBBQUzamd
+7wcjf6G3b3pkw+iWT7Nv1zANBgkqhkiG9w0BAQsFAAOCAgEAmrGeTj3MaehC3p/+
+WSLGfPAJSGjJGCfjt3+cHccuIFWlWlSChg8VG9geyf6Fa9JAOFW2NONmjdtbDuit
+t6PX9l7Qg6ERFvvWTD/gs282PkIRGfZgYLtl9CdpdF23zaRw7wNrIc8P4fnxoMz9
+IomeX+tqM79Oe5lRe5elFGENmx1UhRvAEiY4QgWJGANdF/CiO5s8TSupIHloLKN5
+RyqTYMhtrhp5Ph5C/0VW1VBFgqrg9GFXGkvWHiTTGDYq7dKgzJ8XBBuN9EbexIa5
+nJwbEpQlbCgCdnxYHExUgX6jL3r1Ujp49BDDLldLCjzFtBPcyfy5N/WBpESBMmMo
+ExLrTQEigOW4Z5vHA+1+eovCAHWR7gZR3Fsrd1rPnPrxg4duzyaS9ABkRlyJVV1Q
+BoWMKs9lhkIlTXQ0+AcEuO9lwlh9sLqivMHfxXNyLHQmlKryDkQr2nfD/hSZtZUm
+2krL388/X+bar0RcZHKc4aSRDh+lhoQwdI1KCf0Frgog9asQ7PYXWtj0bxqLRT5F
+fPSWaAA66GimoMegLssVSDWc/V3irTnXy1UR37NNZHaEFpbnD2Zpq3I0PmV+EBGO
+8xLPTEO7t2wWW6up9X7JO0J16sxUnFF/Hu06k9fjhqsGtmagtoaLQ6eBPev6I7Zs
+tzWdL4RbgunELFi+fwTeJF/9pkQ=
+-----END CERTIFICATE-----

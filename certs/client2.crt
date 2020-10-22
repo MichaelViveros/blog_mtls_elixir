@@ -1,0 +1,31 @@
+# Certificate:
+#     Data:
+#         Version: 3 (0x2)
+#         Serial Number:
+#             64:04:be:d0:f0:48:1d:d1:cd:e3:a1:33:c5:61:55:74
+#     Signature Algorithm: sha256WithRSAEncryption
+#         Issuer: CN=Dummy Intermediate CA
+#         Validity
+#             Not Before: Oct 22 19:28:15 2020 GMT
+#             Not After : Apr 22 19:26:54 2022 GMT
+#         Subject: CN=dummy-mtls-client-2.com
+-----BEGIN CERTIFICATE-----
+MIIDPTCCAiWgAwIBAgIQZAS+0PBIHdHN46EzxWFVdDANBgkqhkiG9w0BAQsFADAg
+MR4wHAYDVQQDExVEdW1teSBJbnRlcm1lZGlhdGUgQ0EwHhcNMjAxMDIyMTkyODE1
+WhcNMjIwNDIyMTkyNjU0WjAiMSAwHgYDVQQDExdkdW1teS1tdGxzLWNsaWVudC0y
+LmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMKeNv2ZauKi6C0J
+7hLuZgqPSoOkl9+ikcc32jLlOACXPg/6BmOR/AM09aW/nWcCOgBKzMy6loMyFJr6
+j1AnKo0UQFqB87tyeW8Z4wkAhfDKIu+FlDEL0b5p1qTrAZTVU4difF2FRsrpBi1N
+LRch4PnHL2ur1PqBp8W4HnaTuJ80KjpzrzJ+Dxso0M83sacMPnVb2zAmy2Ymh4bM
+cxlhUzXBHLzzyLKH5mBRe7QamdFDcCYkmm5hXmgQ3UIC/+fmfSCxgKyjSUCBKhhH
+2ZSZYng5/F6+sB/6mPXxav+zYjhxbhOJaKRWhfZuwcQdN0jdoEYMSpZlLbptwGV/
+Q7mOEjECAwEAAaNxMG8wDgYDVR0PAQH/BAQDAgO4MB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAdBgNVHQ4EFgQU6hjzE0N5i0BlbryVmuzs2NTrYYowHwYD
+VR0jBBgwFoAUGIoyM+2NjuBcOKBIQtoNt/3otiIwDQYJKoZIhvcNAQELBQADggEB
+AGbg6CmNwZyJCXQVk1+Dzuwyr1OS0+ppiKA3EKZwQcrqujweFCRyYG3a4ccrmtvl
+the2x8yqJQxcGtld3uDRNpXWCRPiegYvmX3Sl70cNuYDGMH8KhWamhbbe1KgrELP
+cf0jt28d5q57JHyffsnqll9qUKe6x2ukoTicfvUI3zJmrrgUVzCUjgraJO1vZ774
+YsWUk+9pxUB9MMj7oqlUCEGLmA+2d2wUvmTEx92aO3NyJ+J0KcL3T93qKBrn4oPS
+851xOxmybV8I+BPbi8zLJUXaSkfZ4pZh8sFUi/JSmB+0HMu8vsJUu1S5vr9dC5A2
+5xsRe9S5d1C7wBFrwLay47g=
+-----END CERTIFICATE-----
